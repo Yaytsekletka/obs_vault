@@ -1,3 +1,3 @@
-[[Учеба]]
-[[Tasks]]
-[[Assignments]]
+# [[Учеба]]
+# [[Tasks]]
+# [[Assignments]]
