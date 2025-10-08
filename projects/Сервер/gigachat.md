@@ -1,0 +1,8 @@
+auth key
+ZTUwZTBkZmQtYmE1MS00Mjg1LWFjMDMtYjBhMDZkZWIyZTQ0OmQxYzViOTA0LWQ1ODItNGEzMS05N2UxLWVkMGZmYjU5MjRjYw==
+
+cclient secret
+d1c5b904-d582-4a31-97e1-ed0ffb5924cc
+
+client id
+e50e0dfd-ba51-4285-ac03-b0a06deb2e44
