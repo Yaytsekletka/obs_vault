@@ -6,7 +6,9 @@ kanban-plugin: board
 
 ## Тамв
 
-- [ ] КР 20 октября пн
+- [ ] [[КР 20 октября пн]] @{20-10-2025}
+- [ ] разобраться с минимизацией дка
+- [ ] сделать задание с регуляркой 101 010
 
 
 ## Матлог
@@ -16,12 +18,12 @@ kanban-plugin: board
 ## Матан
 
 - [ ] Дз 1 уже
-- [ ] колок 2025-10-24 пт
+- [ ] колок 2025-10-24 пт @{24-10-2025}
 
 
 ## Диффуры
 
-- [ ] дз 1 2025-10-17 пт
+- [ ] дз 1 2025-10-17 пт @{17-10-2025}
 
 
 ## Физос
@@ -39,6 +41,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,true,true]}
 ```
 %%
