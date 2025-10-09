@@ -1,10 +1,11 @@
 [[calendar_view_of_tasks|Вид в календаре]]
 [[timeline_view_of_tasks|Timeline view]]
+[[По неделям]]
 
 - [x] Матлог дз  [scheduled:: 2025-10-03]  [completion:: 2025-10-08]
 - [ ] Матан 1 задание  [scheduled:: 2025-10-06]
 - [x] ТАМВ ДЗ 1  [scheduled:: 2025-10-06]  [completion:: 2025-10-08]
-- [ ] Диффуры 1 задание  [scheduled:: 2025-10-17]
+- [ ] Дифуры 1 задание  [scheduled:: 2025-10-17]
 - [ ] ТАМВ КР 1 [scheduled:: 2025-10-20]
 - [ ] Акос дз 1 [scheduled:: 2025-10-22]
 - [ ] Матан Колоквиум [scheduled:: 2025-10-24]
