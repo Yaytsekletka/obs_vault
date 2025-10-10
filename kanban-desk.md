@@ -42,7 +42,7 @@ kanban-plugin: board
 
 ## Акос
 
-- [ ] 01 ieee754-clf
+- [x] 01 ieee754-clf  [completion:: 2025-10-10]
 - [ ] 01 bloom-filter
 - [ ] 01 utf8-file
 - [ ] 02 fs-utils
