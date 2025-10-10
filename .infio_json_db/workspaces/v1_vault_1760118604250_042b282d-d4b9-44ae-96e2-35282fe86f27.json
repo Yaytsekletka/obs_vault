@@ -1,0 +1,18 @@
+{
+  "id": "042b282d-d4b9-44ae-96e2-35282fe86f27",
+  "name": "vault",
+  "content": [
+    {
+      "type": "folder",
+      "content": "/"
+    }
+  ],
+  "chatHistory": [],
+  "metadata": {
+    "isDefault": true,
+    "description": "all vault as workspace"
+  },
+  "createdAt": 1760118604250,
+  "updatedAt": 1760118604250,
+  "schemaVersion": 1
+}
