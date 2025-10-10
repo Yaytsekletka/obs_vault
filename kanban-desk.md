@@ -47,7 +47,7 @@ kanban-plugin: board
 - [ ] 01 utf8-file
 - [ ] 02 fs-utils
 - [ ] 02 persistent-s
-- [ ] same-file
+- [ ] 02 same-file
 - [ ] 02 tailf
 - [ ] 02 linked-list
 
@@ -56,6 +56,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,true,false]}
 ```
 %%
