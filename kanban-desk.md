@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Тамв
 
 - [ ] разобраться с минимизацией дка
+	как строить мин дка
 - [ ] сделать задание с регуляркой 101 010
 
 
@@ -58,6 +59,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,false,false,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,true,true,true]}
 ```
 %%
