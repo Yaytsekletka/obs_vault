@@ -22,6 +22,8 @@ kanban-plugin: board
 - [ ] Измеримые функции
 - [ ] Интеграл Лебега
 - [ ] Разные виды Сходимости
+- [ ] 4.43 измеримость через равномерную непр-ть
+- [ ] 6.90 T3 T5 T6
 
 
 ## Диффуры
@@ -56,6 +58,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,false,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[true,true,false,false,true,true,true]}
 ```
 %%
