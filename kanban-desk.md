@@ -42,10 +42,22 @@ kanban-plugin: board
 - [ ] ДЗ 1 2025-11-06
 
 
+## Акос
+
+- [ ] 01 ieee754-clf
+- [ ] 01 bloom-filter
+- [ ] 01 utf8-file
+- [ ] 02 fs-utils
+- [ ] 02 persistent-s
+- [ ] same-file
+- [ ] 02 tailf
+- [ ] 02 linked-list
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,true,true]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,true,true]}
 ```
 %%
