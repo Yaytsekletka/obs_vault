@@ -2,3 +2,5 @@
 # [[Tasks]]
 # [[Assignments]]
 # [[kanban-desk|Канбан]]
+
+# [[Жизнь]]
