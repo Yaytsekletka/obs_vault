@@ -55,10 +55,15 @@ kanban-plugin: board
 - [ ] 02 linked-list
 
 
+## Англиский
+
+- [ ] Разобраться время first third вроде бы past perfect
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,false,true,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,true,true,true]}
 ```
 %%
