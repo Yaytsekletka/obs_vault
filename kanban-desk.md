@@ -57,6 +57,9 @@ kanban-plugin: board
 - [ ] 03 asm-add-scanf
 - [ ] 03 asm memcpy
 - [ ] 03 asm-scalar-p
+- [ ] 04 asm add-AArch64
+- [ ] 04 ass-add-scanf-AArch64
+- [ ] 04 asm-1d-dp
 
 
 ## Англиский
