@@ -53,6 +53,10 @@ kanban-plugin: board
 - [ ] 02 same-file
 - [ ] 02 tailf
 - [ ] 02 linked-list
+- [ ] 03 asm-add
+- [ ] 03 asm-add-scanf
+- [ ] 03 asm memcpy
+- [ ] 03 asm-scalar-p
 
 
 ## Англиский
@@ -64,6 +68,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,true,true,true]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,true,false,true]}
 ```
 %%
